@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=7&category=Arrays&difficulty=School,Basic,Easy&sortBy=submissions">Missing element of AP</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Find the missing element from an ordered array <strong>arr[]</strong>, consisting of <strong>N</strong> elements representing an Arithmetic Progression(AP).</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/0">Missing element of AP</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Find the missing element from an ordered array <strong>arr[]</strong>, consisting of <strong>N</strong> elements representing an Arithmetic Progression(AP).</span></p>
 
 <p><span style="font-size:18px"><strong>Note:&nbsp;</strong>There always exists an element which upon inserting into sequence forms Arithmetic progression. Boundary elements (first and last elements) are not missing.</span><br>
 <br>
